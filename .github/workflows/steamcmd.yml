@@ -20,7 +20,7 @@ jobs:
       matrix:
         distro:
           - debian
-          - ubuntu
+          #- ubuntu
           - dotnet
           - proton
           - proton_8   
