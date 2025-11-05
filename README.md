@@ -146,6 +146,8 @@ is tagged correctly.
   * `ghcr.io/parkervcp/games:thebattleforwesnoth`
 * [`valheim`](/games/valheim)
   * `ghcr.io/parkervcp/games:valheim`
+* [`zandronum`](/games/zandronum)
+  * `ghcr.io/parkervcp/games:zandronum`
 
 ### [Golang](/go)
 
@@ -186,6 +188,8 @@ is tagged correctly.
   * `ghcr.io/parkervcp/yolks:java_21`
 * [`java22`](/java/22)
   * `ghcr.io/parkervcp/yolks:java_22`
+* [`java25`](/java/25)
+  * `ghcr.io/parkervcp/yolks:java_25`
 
 ### [MariaDB](/mariadb)
 
@@ -282,6 +286,8 @@ is tagged correctly.
   * `ghcr.io/parkervcp/yolks:python_3.12`
 * [`python3.13`](/python/3.13)
   * `ghcr.io/parkervcp/yolks:python_3.13`
+* [`python3.14`](/python/3.14)
+  * `ghcr.io/parkervcp/yolks:python_3.14`
 
 ### [Redis](/redis)
 
