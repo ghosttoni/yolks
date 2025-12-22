@@ -1,13 +1,6 @@
 name: build mono
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * 1"
-  push:
-    branches:
-      - master
-    paths:
-      - mono/**
 permissions:
   packages: write
 
