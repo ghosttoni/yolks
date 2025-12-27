@@ -99,6 +99,8 @@ is tagged correctly.
   * `ghcr.io/parkervcp/yolks:dotnet_8`
 * [`dotnet9.0`](/dotnet/9)
   * `ghcr.io/parkervcp/yolks:dotnet_9`
+* [`dotnet10.0`](/dotnet/10)
+  * `ghcr.io/parkervcp/yolks:dotnet_10`  
 
 ### [Elixir](/elixir)
 
@@ -268,7 +270,13 @@ is tagged correctly.
   * [`Postgres 13`](/postgres/13)
     * `ghcr.io/parkervcp/yolks:postgres_13`
   * [`Postgres 14`](/postgres/14)
-    * `ghcr.io/parkervcp/yolks:postgres_14`  
+    * `ghcr.io/parkervcp/yolks:postgres_14`
+  * [`Postgres 16`](/postgres/16)
+    * `ghcr.io/parkervcp/yolks:postgres_16`
+  * [`Postgres 17`](/postgres/17)
+    * `ghcr.io/parkervcp/yolks:postgres_17`
+  * [`Postgres 18`](/postgres/18)
+    * `ghcr.io/parkervcp/yolks:postgres_18`
 
 ### [Python](/python)
 
@@ -348,3 +356,13 @@ is tagged correctly.
   * `ghcr.io/parkervcp/installers:debian`
 * [`ubuntu-install`](/installers/ubuntu)
   * `ghcr.io/parkervcp/installers:ubuntu`
+* [`java8-install`](/installers/java_8)
+  * `ghcr.io/parkervcp/installers:java_8`
+* [`java11-install`](/installers/java_11)
+  * `ghcr.io/parkervcp/installers:java_11`
+* [`java17-install`](/installers/java_17)
+  * `ghcr.io/parkervcp/installers:java_17`
+* [`java21-install`](/installers/java_21)
+  * `ghcr.io/parkervcp/installers:java_21`
+* [`java25-install`](/installers/java_25)
+  * `ghcr.io/parkervcp/installers:java_25`
