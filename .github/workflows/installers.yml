@@ -36,7 +36,7 @@ jobs:
           registry: ghcr.io
           username: ${{ steps.lower-repo.outputs.repository }}
           password: ${{ secrets.REGISTRY_TOKEN || secrets.GITHUB_TOKEN }}
-      - uses: docker/build-push-action@v6
+      - uses: docker/build-push-action@v7
         with:
           context: ./installers
           file: ./installers/${{ matrix.tag }}/Dockerfile
